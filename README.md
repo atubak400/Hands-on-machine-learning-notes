@@ -1,4 +1,3 @@
-# Hands-on-machine-learning-notes
 # Hands-On Machine Learning Notes
 
 This repository contains my personal learning notes, code practice, and jottings while studying:
